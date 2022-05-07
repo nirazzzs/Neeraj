@@ -1,1 +1,6 @@
-this is new git 
+<<<<<<< HEAD
+this is new git
+after conflict 
+=======
+this newgit 2 file
+>>>>>>> neeraj
